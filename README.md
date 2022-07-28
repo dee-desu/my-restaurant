@@ -29,5 +29,6 @@
 3) Legit Mexican
 ![amego](./pics/b3.jpg)
 **price: 5.60**
+![wireframe](./pics/wireframe.PNG)
 
 
